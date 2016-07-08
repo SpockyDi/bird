@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 
 
-
+//lol
 public class Activity extends JPanel implements Runnable {
 
     /**
